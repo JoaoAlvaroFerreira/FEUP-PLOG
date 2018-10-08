@@ -1,0 +1,6 @@
+a) yes
+b) X = a3
+c) X = a1
+d) X = a1
+e) X = a1, Y = b1
+f) X = a1, Y = 2
